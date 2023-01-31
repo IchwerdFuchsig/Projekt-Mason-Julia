@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Smartphone
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Smartphone.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=Smartphone()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Gebirge\r\n
+comment2.params=Farbe
+comment2.target=java.lang.String\ gibFarbe(java.lang.String)
+comment2.text=\r\n\ Gibt\ die\ Farbe\ zur\u00FCck.\r\n
+comment3.params=
+comment3.target=void\ BildschirmAnAus()
+comment4.params=
+comment4.target=void\ Bildschirmschoner()
+comment5.params=Nummer
+comment5.target=int\ SmartphoneDurchsuchen(java.lang.String)
+comment6.params=
+comment6.target=void\ Bildschirmschoner2()
+comment7.params=npasswort
+comment7.target=void\ passwort(java.lang.String)
+numComments=8

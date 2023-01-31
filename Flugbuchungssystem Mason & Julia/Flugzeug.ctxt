@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Flugzeug
+comment0.text=\r\n\ Flugzeug\ und\ seine\ Grundfunktionen\r\n\ \r\n\ @author\ (Mason\ &\ Julia)\ \r\n\ @version\ ()\r\n
+comment1.params=neuerTyp
+comment1.target=Flugzeug(java.lang.String)
+comment10.params=
+comment10.target=void\ flugzeugLeer()
+comment11.params=
+comment11.target=void\ flugzeugInfolisteGeben()
+comment2.params=neuerPilot
+comment2.target=void\ pilotFestlegen(java.lang.String)
+comment3.params=neueFlugnummer
+comment3.target=void\ flugnummerFestlegen(int)
+comment4.params=neuePosition
+comment4.target=void\ positionFestlegen(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ pilotGeben()
+comment6.params=
+comment6.target=int\ flugnummerGeben()
+comment7.params=
+comment7.target=java.lang.String\ typGeben()
+comment8.params=
+comment8.target=java.lang.String\ positionGeben()
+comment9.params=sitzplatzNr
+comment9.target=void\ sitzplatzReservieren(int)
+numComments=12

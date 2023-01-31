@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Buchung
+comment0.text=\r\n\ Buchung\ und\ seine\ Grundfunktionen\r\n\ \r\n\ @author\ (Mason\ &\ Julia)\ \r\n\ @version\ ()\r\n
+comment1.params=neueNummer\ neueKategorie
+comment1.target=Buchung(int,\ java.lang.String)
+comment2.params=
+comment2.target=boolean\ statusGeben()
+comment3.params=neuerStatus
+comment3.target=void\ statusFestlegen(boolean)
+comment4.params=neuerGast
+comment4.target=void\ neueBuchung(java.lang.String)
+comment5.params=
+comment5.target=void\ buchungleer()
+comment6.params=
+comment6.target=int\ nummerGeben()
+comment7.params=
+comment7.target=java.lang.String\ kategorieGeben()
+comment8.params=neuerName
+comment8.target=void\ nameFestlegen(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ nameGeben()
+numComments=10
